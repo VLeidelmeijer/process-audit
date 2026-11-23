@@ -52,3 +52,7 @@ inter-human rater reliability was not estimated.
 The full working record (run log, check evidence, test fixtures, the sealed evaluation set) and the method
 toolkit the build followed. They stay out on purpose. The changelog and `SKILL.md` refer to those files; the
 references point at the private working archive, not at this repository.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
